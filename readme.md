@@ -1,6 +1,6 @@
 # CoinMarketCap Captcha Solver
 
-A simple nodejs function for finding puzzle position in CMC captcha.
+A simple nodejs function for finding puzzle position in CoinMarketCap captcha.
 
 # How it works
 
